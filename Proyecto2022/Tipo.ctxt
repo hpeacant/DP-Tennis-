@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=Tipo
+comment0.text=\r\n\ Clase\ enumerada\ Tipo\r\n\ \r\n\ @author\ Hugo\ Pe\u00F1a\ Cantonero\ (Academia\ Universitas)\r\n\ @version\ 04/10/2021\r\n\ \r\n\ El\ tipo\ solo\ podr\u00E1\ tener\ dos\ valores\:\ AMORTIGUACION\ Y\ AGARRE\r\n\ \r\n\ En\ futuras\ versiones\ del\ proyecto,\ esta\ clase\ ser\u00E1\ eliminada,\ ya\ que\ los\ tipos\ \r\n\ se\ implementar\u00E1n\ mediante\ herencia,\ siguiendo\ el\ paradigma\ de\ POO\r\n\r\n
+numComments=1
